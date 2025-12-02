@@ -1,5 +1,5 @@
+"use client";
 import React, { useState } from 'react';
-import './Gallery.css';
 
 const Gallery = () => {
   const [activeCategory, setActiveCategory] = useState('all');

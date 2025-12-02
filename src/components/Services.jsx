@@ -1,5 +1,5 @@
+"use client"
 import React, { useState } from 'react'
-import './Services.css'
 
 const Services = () => {
   const [activeService, setActiveService] = useState(0)

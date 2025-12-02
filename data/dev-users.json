@@ -1,0 +1,43 @@
+{
+  "users": [
+    {
+      "id": "u-1",
+      "name": "Admin Demo",
+      "email": "admin@nerd3dbr.dev",
+      "role": "admin",
+      "blocked": false,
+      "phone": "",
+      "address": "",
+      "cep": "",
+      "country": "",
+      "createdAt": "2025-11-05T19:03:42.420Z",
+      "updatedAt": "2025-11-05T19:03:42.420Z"
+    },
+    {
+      "id": "u-2",
+      "name": "Usuário Demo",
+      "email": "user@nerd3dbr.dev",
+      "role": "user",
+      "blocked": false,
+      "phone": "",
+      "address": "",
+      "cep": "",
+      "country": "",
+      "createdAt": "2025-11-05T19:03:42.420Z",
+      "updatedAt": "2025-11-05T19:03:42.420Z"
+    },
+    {
+      "id": "u-1762369422492",
+      "name": "mara",
+      "email": "mara@gmail.com",
+      "role": "user",
+      "blocked": false,
+      "phone": "",
+      "address": "",
+      "cep": "",
+      "country": "",
+      "createdAt": "2025-11-05T19:03:42.492Z",
+      "updatedAt": "2025-11-05T19:03:42.492Z"
+    }
+  ]
+}

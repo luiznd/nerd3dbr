@@ -1,5 +1,5 @@
+"use client"
 import React, { useEffect, useState } from 'react'
-import './Hero.css'
 
 const Hero = () => {
   const [currentText, setCurrentText] = useState(0)

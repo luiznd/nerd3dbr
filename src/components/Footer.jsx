@@ -1,5 +1,6 @@
+"use client";
+
 import React from 'react';
-import './Footer.css';
 
 const Footer = () => {
   const currentYear = new Date().getFullYear();
@@ -39,7 +40,6 @@ const Footer = () => {
           {/* Logo e Descrição */}
           <div className="footer-brand">
             <div className="footer-logo">
-              <img src="/logo-nerd3dbr.png" alt="Nerd 3D BR" />
               <span className="logo-text">Nerd 3D BR</span>
             </div>
             <p className="footer-description">

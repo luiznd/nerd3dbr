@@ -495,37 +495,6 @@
     font-size: 0.75rem;
   }
 }
-    line-height: 1.2;
-  }
-
-  .title-subtitle {
-    font-size: 1.2rem;
-  }
-
-  .hero-description {
-    font-size: 1rem;
-    line-height: 1.6;
-    margin: 1.5rem 0;
-  }
-
-  .hero-buttons {
-    justify-content: center;
-    gap: 1rem;
-  }
-
-  .hero-logo-container {
-    width: 200px;
-    height: 200px;
-  }
-
-  .logo-3d {
-    font-size: 4rem;
-  }
-
-  .stat-item {
-    padding: 1rem;
-  }
-}
 
 @media (max-width: 480px) {
   .hero {

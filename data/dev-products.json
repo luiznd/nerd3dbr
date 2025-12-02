@@ -1,0 +1,294 @@
+{
+  "products": [
+    {
+      "id": "p-001",
+      "name": "Action Figure Homem-Aranha (Impressão 3D)",
+      "description": "Modelo detalhado do Homem-Aranha com acabamento premium em PLA vermelho e azul.",
+      "price": 149.9,
+      "images": [
+        "/gallery/anime-logo-1.jpg"
+      ],
+      "category": "Action Figures",
+      "tags": [
+        "herói",
+        "marvel",
+        "pla"
+      ],
+      "inStock": 12,
+      "isDigital": false,
+      "dimensions": {
+        "width": 12,
+        "height": 18,
+        "depth": 10
+      },
+      "weight": 0.35,
+      "createdAt": "2025-11-05T14:58:22.920Z",
+      "updatedAt": "2025-11-05T14:58:22.920Z"
+    },
+    {
+      "id": "p-002",
+      "name": "Darth Vader 3D (Edição Colecionador)",
+      "description": "Modelo 3D do Darth Vader com pintura preta fosca. Ideal para fãs de Star Wars.",
+      "price": 189.9,
+      "images": [
+        "/gallery/phoenix-cyberpunk-2.jpg"
+      ],
+      "category": "Action Figures",
+      "tags": [
+        "star wars",
+        "darth vader",
+        "colecionador"
+      ],
+      "inStock": 8,
+      "isDigital": false,
+      "dimensions": {
+        "width": 10,
+        "height": 22,
+        "depth": 9
+      },
+      "weight": 0.42,
+      "createdAt": "2025-11-05T14:58:22.920Z",
+      "updatedAt": "2025-11-05T14:58:22.920Z"
+    },
+    {
+      "id": "p-003",
+      "name": "Logo Futurista Personalizado (Corte a Laser)",
+      "description": "Criação de logo em estilo futurista com acabamento neon e material acrílico.",
+      "price": 249,
+      "images": [
+        "/gallery/logo-futurista-1.jpeg"
+      ],
+      "category": "Logos",
+      "tags": [
+        "logo",
+        "futurista",
+        "neon"
+      ],
+      "inStock": 20,
+      "isDigital": false,
+      "dimensions": {
+        "width": 25,
+        "height": 25,
+        "depth": 5
+      },
+      "weight": 0.5,
+      "createdAt": "2025-11-05T14:58:22.920Z",
+      "updatedAt": "2025-11-05T14:58:22.920Z"
+    },
+    {
+      "id": "p-004",
+      "name": "Logo Cyberpunk (Impressão UV)",
+      "description": "Logo com tema cyberpunk e acabamento com impressão UV para cores vibrantes.",
+      "price": 219,
+      "images": [
+        "/gallery/logo-cyberpunk-1.jpeg"
+      ],
+      "category": "Logos",
+      "tags": [
+        "logo",
+        "cyberpunk",
+        "uv"
+      ],
+      "inStock": 15,
+      "isDigital": false,
+      "dimensions": {
+        "width": 28,
+        "height": 20,
+        "depth": 2
+      },
+      "weight": 0.38,
+      "createdAt": "2025-11-05T14:58:22.920Z",
+      "updatedAt": "2025-11-05T14:58:22.920Z"
+    },
+    {
+      "id": "p-005",
+      "name": "Fênix Futurista (Arte 3D Decorativa)",
+      "description": "Peça decorativa em 3D com tema de fênix futurista, ideal para escritórios criativos.",
+      "price": 299.9,
+      "images": [
+        "/gallery/phoenix-futurista-1.jpg"
+      ],
+      "category": "Decoração",
+      "tags": [
+        "fênix",
+        "decor",
+        "arte 3d"
+      ],
+      "inStock": 10,
+      "isDigital": false,
+      "dimensions": {
+        "width": 30,
+        "height": 25,
+        "depth": 8
+      },
+      "weight": 0.6,
+      "createdAt": "2025-11-05T14:58:22.920Z",
+      "updatedAt": "2025-11-05T14:58:22.920Z"
+    },
+    {
+      "id": "p-006",
+      "name": "Raio Neon (Arte de Parede)",
+      "description": "Arte de parede com tema relâmpago e acabamento brilhante neon.",
+      "price": 169.9,
+      "images": [
+        "/gallery/lightning-logo.jpg"
+      ],
+      "category": "Decoração",
+      "tags": [
+        "neon",
+        "raio",
+        "parede"
+      ],
+      "inStock": 25,
+      "isDigital": false,
+      "dimensions": {
+        "width": 20,
+        "height": 20,
+        "depth": 2
+      },
+      "weight": 0.25,
+      "createdAt": "2025-11-05T14:58:22.920Z",
+      "updatedAt": "2025-11-05T14:58:22.920Z"
+    },
+    {
+      "id": "p-007",
+      "name": "Modelo 3D de Robô (Arquivo Digital)",
+      "description": "Arquivo digital de robô futurista em formato STL/OBJ para impressão 3D.",
+      "price": 89.9,
+      "images": [
+        "/gallery/design-cyberpunk-1.jpeg"
+      ],
+      "category": "Modelos 3D",
+      "tags": [
+        "digital",
+        "stl",
+        "robô"
+      ],
+      "inStock": 9999,
+      "isDigital": true,
+      "fileUrl": "https://example.com/downloads/robo.stl",
+      "createdAt": "2025-11-05T14:58:22.920Z",
+      "updatedAt": "2025-11-05T14:58:22.920Z"
+    },
+    {
+      "id": "p-008",
+      "name": "Modelo 3D de Nave Espacial (Arquivo Digital)",
+      "description": "Arquivo digital de nave espacial pronto para impressão 3D e renderização.",
+      "price": 99.9,
+      "images": [
+        "/gallery/design-cyberpunk-2.jpeg"
+      ],
+      "category": "Modelos 3D",
+      "tags": [
+        "digital",
+        "stl",
+        "nave"
+      ],
+      "inStock": 9999,
+      "isDigital": true,
+      "fileUrl": "https://example.com/downloads/nave.obj",
+      "createdAt": "2025-11-05T14:58:22.920Z",
+      "updatedAt": "2025-11-05T14:58:22.920Z"
+    },
+    {
+      "id": "p-009",
+      "name": "Logo Nerd 3D BR (Edição Especial)",
+      "description": "Logo oficial Nerd 3D BR em acrílico com corte preciso e detalhes iluminados.",
+      "price": 199,
+      "images": [
+        "/gallery/nerd3dbr-logo.png"
+      ],
+      "category": "Logos",
+      "tags": [
+        "logo",
+        "oficial",
+        "acrílico"
+      ],
+      "inStock": 18,
+      "isDigital": false,
+      "dimensions": {
+        "width": 24,
+        "height": 24,
+        "depth": 3
+      },
+      "weight": 0.4,
+      "createdAt": "2025-11-05T14:58:22.920Z",
+      "updatedAt": "2025-11-05T14:58:22.920Z"
+    },
+    {
+      "id": "p-010",
+      "name": "Placa Decorativa Cyberpunk (Parede)",
+      "description": "Placa decorativa com visual cyberpunk para ambientes modernos e tech.",
+      "price": 159,
+      "images": [
+        "/gallery/logo-cyberpunk-3.jpeg"
+      ],
+      "category": "Decoração",
+      "tags": [
+        "cyberpunk",
+        "placa",
+        "parede"
+      ],
+      "inStock": 22,
+      "isDigital": false,
+      "dimensions": {
+        "width": 32,
+        "height": 18,
+        "depth": 3
+      },
+      "weight": 0.45,
+      "createdAt": "2025-11-05T14:58:22.920Z",
+      "updatedAt": "2025-11-05T14:58:22.920Z"
+    },
+    {
+      "id": "p-011",
+      "name": "Mascote Anime (Impressão 3D)",
+      "description": "Mascote estilo anime com acabamento detalhado e pintura personalizada.",
+      "price": 139,
+      "images": [
+        "/gallery/anime-logo-2.jpg"
+      ],
+      "category": "Action Figures",
+      "tags": [
+        "anime",
+        "mascote",
+        "personalizado"
+      ],
+      "inStock": 16,
+      "isDigital": false,
+      "dimensions": {
+        "width": 12,
+        "height": 16,
+        "depth": 9
+      },
+      "weight": 0.33,
+      "createdAt": "2025-11-05T14:58:22.920Z",
+      "updatedAt": "2025-11-05T14:58:22.920Z"
+    },
+    {
+      "id": "p-012",
+      "name": "Poster Hidden Histories (Arte Impressa)",
+      "description": "Poster artístico “Hidden Histories” com impressão de alta qualidade.",
+      "price": 89,
+      "images": [
+        "/gallery/hidden-histories.png"
+      ],
+      "category": "Decoração",
+      "tags": [
+        "poster",
+        "arte",
+        "histórias"
+      ],
+      "inStock": 40,
+      "isDigital": false,
+      "dimensions": {
+        "width": 30,
+        "height": 40,
+        "depth": 1
+      },
+      "weight": 0.2,
+      "createdAt": "2025-11-05T14:58:22.920Z",
+      "updatedAt": "2025-11-05T14:58:22.920Z"
+    }
+  ]
+}
